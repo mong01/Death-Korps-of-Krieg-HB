@@ -1,0 +1,14 @@
+Q. Do heavy weapon teams for certain units, such as grenadiers and engineers, take up the same transport space as a regular heavy weapons team?
+A. Yes.
+
+ABLATIVE PLATING:
+Add the following sentence to the end of this Stratagem:
+'If that unit has the STORM CHIMERA keyword, this Stratagem costs 1CP.'
+
+OVERCHARGED LAS-CELLS:
+Change the first sentence of this Stratagem to read:
+'Use this Stratagem in your Shooting phase, when a KASRKIN, MILITARUM TEMPESTUS or DEATH KORPS GRENADIER SQUAD unit from your army is selected to shoot.'
+
+THUNDEROUS CHARGE:
+Change the first two sentences of this Stratagem to read:
+'Use this Stratagem in your Charge phase, when a friendly OGRYNS, ATTILAN ROUGH RIDERS, DEATH RIDER SQUADRON or DEATH RIDER COMMAND SQUADRON unit from your army finishes a charge move. Select one enemy unit within Engagement Range of that friendly unit, and roll one D6 for each model in that friendly unit that is within Engagement Range of that enemy unit.'
